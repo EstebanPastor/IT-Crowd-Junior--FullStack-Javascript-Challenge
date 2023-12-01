@@ -35,7 +35,7 @@ Make sure you have the following installed on your machine:
 
 ### Navigate to the project directory:
 
-cd your-project
+cd client
 
 ### Install dependencies using Yarn:
 
